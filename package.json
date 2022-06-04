@@ -1,0 +1,16 @@
+{
+  "name": "mern-api",
+  "version": "1.0.0",
+  "description": "mern api using node js for mern blog (first practice mern)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "author": "Mohamad Faid Fadjri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
